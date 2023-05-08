@@ -2,8 +2,6 @@
 <h3 align="center">FiveM Developer</h3>
 <img align="right" alt="L" width="250" height="270" src="https://c.tenor.com/H58LlQJMizUAAAAM/l-death-note.gif"> 
 
-- 🖥️ Currently working on [ESX-Framework ( Infinity )](https://github.com/esx-framework/esx-infinity)
-
 - 🤝 Collaborating with [Xorzo Scripts ( Mostly private scripts )](https://github.com/Xorzo-Scripts)
 
 - 💬 For server developing, you can find me on Discord - **Mental Illness#0515**
