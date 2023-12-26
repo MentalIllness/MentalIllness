@@ -4,7 +4,7 @@
 
 - ☕ [Ko-Fi](https://ko-fi.com/mentalillness) for motivating, less sleeping and more coding
 
-- 💬 For script developing, you can find me on Discord - **Mental Illness#0515**
+- 💬 For script developing, you can find me on Discord - **mentalillnesss**
 
 - 💻 Developing for [@QBCore Framework](https://docs.qbcore.org/qbcore-documentation)
 
